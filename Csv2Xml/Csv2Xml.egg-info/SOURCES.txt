@@ -1,0 +1,8 @@
+README.md
+setup.py
+Csv2Xml/Csv2Xml.py
+Csv2Xml/Csv2Xml.egg-info/PKG-INFO
+Csv2Xml/Csv2Xml.egg-info/SOURCES.txt
+Csv2Xml/Csv2Xml.egg-info/dependency_links.txt
+Csv2Xml/Csv2Xml.egg-info/requires.txt
+Csv2Xml/Csv2Xml.egg-info/top_level.txt
